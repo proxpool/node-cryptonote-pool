@@ -68,11 +68,12 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 #### Pools Using This Software
 
+* http://etn.proxpool.com
 * http://xminingpool.com
 * http://xmr.poolto.be
 * https://moneropool.com
 * http://monero.crypto-pool.fr
-* https://minexmr.com
+* https://minexmr.com (down)
 
 
 Usage
